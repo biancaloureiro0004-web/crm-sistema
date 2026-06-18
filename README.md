@@ -13,3 +13,11 @@ Este é um sistema de CRM desenvolvido para otimizar a gestão interna de uma em
 - Módulo de Recursos Humanos e Funcionários (`rh.php` / `funcionarios.php`)
 - Gestão e conversão de contactos (`leads.php`)
 - Relatórios estatísticos e Calendário (`relatorios.php` / `calendario.php`)
+
+
+https://github.com/user-attachments/assets/3e973311-435d-44d0-ba9a-967900aeb5f9
+
+
+
+
+
